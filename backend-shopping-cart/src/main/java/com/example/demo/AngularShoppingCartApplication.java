@@ -8,5 +8,6 @@ public class AngularShoppingCartApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AngularShoppingCartApplication.class, args);
+		System.out.println("Haha");
 	}
 }
