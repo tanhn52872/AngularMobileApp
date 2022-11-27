@@ -10,7 +10,8 @@ public class AngularShoppingCartApplication {
 		SpringApplication.run(AngularShoppingCartApplication.class, args);
 		System.out.println("Haha");
 		System.out.println("Ho ho");
-
-		System.out.println("tôi là main");
+		if(true){
+		System.out.println("tôi là feature-test");
+		}
 	}
 }
