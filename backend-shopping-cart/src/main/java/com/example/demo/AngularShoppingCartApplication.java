@@ -12,6 +12,11 @@ public class AngularShoppingCartApplication {
 		System.out.println("Ho ho");
 		if(true){
 		System.out.println("tôi là feature-test");
+<<<<<<< Updated upstream
+=======
+
+		System.out.println("DONE");
+>>>>>>> Stashed changes
 		}
 	}
 }
